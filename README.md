@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sid6wat937
+- 👀 I’m interested in data science. I’m currently learning Python.
+- 🌱 Python learner with a passion for data science. Turning complex data into insights.
